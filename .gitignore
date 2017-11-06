@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Garbage
+.DS_Store
+
+# Data
+*.tsv
